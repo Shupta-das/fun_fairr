@@ -11,6 +11,12 @@ eyey,centery increase = w
 
 eyey,centery decrease = s
 
+eyez,centerz increase = f
+
+eyez,centerz decrease = g
+
+zoom (using scaling) = in: z, out: c
+
 roll = i,o
 
 pitch = r,t
