@@ -23,10 +23,12 @@ pitch = r,t
 
 yaw = y,u
 
-skydrop=b
+skydrop = b
 
-all ferris wheel=j
+all ferris wheel = j
 
-swing, hammock,tire=v
+swing, hammock,tire = v
 
-bird view=x
+bird view = x
+
+door open = p
