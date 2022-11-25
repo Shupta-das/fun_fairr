@@ -32,3 +32,8 @@ swing, hammock,tire = v
 bird view = x
 
 door open = p
+
+links: 
+1. https://online-converting.com/image/convert2bmp/
+2. https://airtightinteractive.com/util/hex-to-glsl/?fbclid=IwAR1_P5HE0d1Q1pZq0is_NPsVKitHwvxO9xB041pp4czvTpUw8leUh5zAzC0
+3. https://www.google.com/search?q=color+picker&oq=color+picker&aqs=chrome.0.69i59j0i433i512j0i512l8.4033j0j7&sourceid=chrome&ie=UTF-8
